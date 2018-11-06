@@ -1,0 +1,2 @@
+- Extract dates from html page or headers
+- Periodically search for follow up stories or updates made to articles
